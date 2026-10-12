@@ -3,5 +3,5 @@
 Sales and landing page repository.
 
 ## Files
-- `salespage5.html`: Sales page template
+- `index.html`: Sales and landing page template
 
